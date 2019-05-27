@@ -8,7 +8,7 @@ namespace Обмен_значениями
     {
     class Program
         {
-        static void Main (string)
+        static void Main ()
             {
             int a = Convert.ToInt32(Console.ReadLine());
             int b = Convert.ToInt32(Console.ReadLine());
