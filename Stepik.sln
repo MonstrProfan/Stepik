@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.28803.452
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Вывод строки текста в консоль", "Вывод строки текста в консоль\Вывод строки текста в консоль.csproj", "{0A30D28F-57A6-403D-9F18-3A59DE25E3D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Квадрат числа", "Квадрат числа\Квадрат числа.csproj", "{2464D807-9089-4723-84F7-DF845C27F488}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Обмен значениями", "Обмен значениями\Обмен значениями.csproj", "{27107951-7827-49A0-8830-9522EDEE2B30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{0A30D28F-57A6-403D-9F18-3A59DE25E3D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A30D28F-57A6-403D-9F18-3A59DE25E3D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A30D28F-57A6-403D-9F18-3A59DE25E3D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2464D807-9089-4723-84F7-DF845C27F488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2464D807-9089-4723-84F7-DF845C27F488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2464D807-9089-4723-84F7-DF845C27F488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2464D807-9089-4723-84F7-DF845C27F488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27107951-7827-49A0-8830-9522EDEE2B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27107951-7827-49A0-8830-9522EDEE2B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27107951-7827-49A0-8830-9522EDEE2B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27107951-7827-49A0-8830-9522EDEE2B30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

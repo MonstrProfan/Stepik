@@ -14,7 +14,7 @@ namespace Вывод_строки_текста_в_консоль
 
             Console.WriteLine("Hello, BeeGeek!");
 
-            Console.ReadKey();
+           Console.ReadKey();
             }
         }
     }
