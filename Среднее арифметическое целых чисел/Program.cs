@@ -43,6 +43,13 @@ namespace Среднее_арифметическое_целых_чисел
 
             Console.WriteLine(n);
 
+            /*периметр прямоугольного треугольника*/
+
+            double a1 = Convert.ToDouble(Console.ReadLine());
+            double b1 = Convert.ToDouble(Console.ReadLine());
+            double P = a1 + b1 + (Math.Sqrt(Math.Pow(a1, 2) + Math.Pow(b1, 2)));
+            Console.WriteLine("{0:#.##}", P);
+
             Console.ReadKey();
             }
         }
