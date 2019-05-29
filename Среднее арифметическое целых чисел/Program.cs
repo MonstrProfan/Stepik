@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Среднее_арифметическое_целых_чисел
     {
@@ -34,6 +30,18 @@ namespace Среднее_арифметическое_целых_чисел
             double s = 3.14 * Math.Pow(r, 2);
 
             Console.WriteLine(s);
+
+            /*перевод байт в Кбайт*/
+
+            /*
+            int a = Convert.ToInt32(Console.ReadLine());
+           */
+
+            int a1 = 8192;
+
+            double n = a1 / Math.Pow(2, 13);
+
+            Console.WriteLine(n);
 
             Console.ReadKey();
             }
