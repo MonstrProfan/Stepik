@@ -50,6 +50,17 @@ namespace Среднее_арифметическое_целых_чисел
             double P = a1 + b1 + (Math.Sqrt(Math.Pow(a1, 2) + Math.Pow(b1, 2)));
             Console.WriteLine("{0:#.##}", P);
 
+            /*расстояние между точками*/
+
+            double x1 = Convert.ToDouble(Console.ReadLine());
+            double y1 = Convert.ToDouble(Console.ReadLine());
+            double x2 = Convert.ToDouble(Console.ReadLine());
+            double y2 = Convert.ToDouble(Console.ReadLine());
+
+            double l = Math.Sqrt(Math.Pow((x2 - x1), 2) + Math.Pow((y2 - y1), 2));
+
+            Console.WriteLine($"{l}");
+
             Console.ReadKey();
             }
         }
