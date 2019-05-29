@@ -60,7 +60,7 @@ namespace Целые_числа
             */
 
             int a = 2;
-            int x = 3;
+            //int x = 3;
             int b = 7;
             int c = 10;
 
@@ -68,9 +68,9 @@ namespace Целые_числа
             Console.WriteLine($"{CIpol(a, b)}");
             Console.WriteLine($"{OIpol(a, b)}");
 
-            int a = x * x;
-            int b = a * a;
-            int c = a * b;
+            //  int a = x * x;
+            //  int b = a * a;
+            //  int c = a * b;
 
             Console.WriteLine(c);
 
