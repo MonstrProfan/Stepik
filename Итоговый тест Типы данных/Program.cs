@@ -42,6 +42,12 @@ namespace Итоговый_тест_Типы_данных
 
             Console.WriteLine($"{aa}");
             #endregion
+            /*дележ яблок 3*/
+            int n = Convert.ToInt32(Console.ReadLine());
+            int k = Convert.ToInt32(Console.ReadLine());
+            int s = (n - k % n) % n;
+
+            Console.WriteLine($"{s}");
 
             Console.ReadKey();
         }
