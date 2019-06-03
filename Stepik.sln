@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "целые и вещест�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Итоговый тест Типы данных", "Итоговый тест Типы данных\Итоговый тест Типы данных.csproj", "{3AF72A4E-FBDF-4172-89B0-8558101DFB98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Условные операторы", "Нахождение максимального числа\Условные операторы.csproj", "{71515329-6E0B-4280-8BAD-EE4D200AD17E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{3AF72A4E-FBDF-4172-89B0-8558101DFB98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AF72A4E-FBDF-4172-89B0-8558101DFB98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AF72A4E-FBDF-4172-89B0-8558101DFB98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71515329-6E0B-4280-8BAD-EE4D200AD17E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71515329-6E0B-4280-8BAD-EE4D200AD17E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71515329-6E0B-4280-8BAD-EE4D200AD17E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71515329-6E0B-4280-8BAD-EE4D200AD17E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
