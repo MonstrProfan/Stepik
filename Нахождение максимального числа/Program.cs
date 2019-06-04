@@ -124,6 +124,22 @@ namespace Нахождение_максимального_числа
                 Console.WriteLine("NO");
             }
 
+            /*зона ладьи*/
+
+            int x1 = Convert.ToInt32(Console.ReadLine());
+            int y1 = Convert.ToInt32(Console.ReadLine());
+            int x2 = Convert.ToInt32(Console.ReadLine());
+            int y2 = Convert.ToInt32(Console.ReadLine());
+
+            if (y1 == y2 || x1 == x2)
+            {
+                Console.WriteLine("YES");
+            }
+            else
+            {
+                Console.WriteLine("NO");
+            }
+
 
             Console.ReadKey();
         }
